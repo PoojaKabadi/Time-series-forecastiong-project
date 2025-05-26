@@ -10,7 +10,8 @@
 
 
 
-**📘 Description:**  
+**📘 Description:** 
+ 
 This project focuses on demand forecasting for wine sales using classical time series modeling techniques. With a rich dataset spanning over a decade, I performed:
 - Exploratory time-based decomposition to identify trend, seasonality, and noise
 - Stationarity testing using ADF test and transformations like log-smoothing
@@ -18,8 +19,10 @@ This project focuses on demand forecasting for wine sales using classical time s
 - Error analysis with RMSE and residual diagnostics to evaluate accuracy
 - Future sales projection and confidence intervals using Python
 
+
 This project showcases my ability to work with real-world temporal data, apply statistical rigor, and generate business-ready forecasts to support inventory and sales strategy.
 
 📅 Timeline: March–April 2025
+
 📦 Tools Used: Python, Pandas, Statsmodels, Matplotlib, Seaborn, ADF Test, ARIMA, SARIMA 
 
