@@ -1,7 +1,7 @@
 <h1 align="center">Time Series Forecasting</h1>
 <p align="center">
   <a href="https://github.com/PoojaKabadi/Time-series-forecasting-project/tree/main">
-    <img src="https://github.com/user-attachments/assets/fd84d41f-94a6-438d-8033-c825e1cfda91" alt="Time Series Forcasting" width="900px" />
+    <img src="https://github.com/user-attachments/assets/e4e07cbd-48cf-4934-ae7b-bf73c85b40df" alt="Time Series Forcasting" width="900px" />
   </a>
   <br><i>
  Developed time series models including ARIMA and SARIMA to forecast wine sales using 15 years of monthly data, optimizing predictions through seasonal decomposition and RMSE evaluation.
